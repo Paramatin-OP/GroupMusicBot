@@ -19,14 +19,14 @@ Add me to your group and play music freely!**
             [
                [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/Legendfed_1"
+                        "💬 Group", url="https://t.me/Lightning_support_group"
                     ),
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/Legendfedlog"
+                        "🔊 Channel", url="https://t.me/Black_Lightning_channel"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "➕ Add To Your Group ➕", url="https://t.me/THE_KING_OF_DARKNESS_MUSIC_BOT?startgroup=true"
+                        "➕ Add To Your Group ➕", url="https://t.me/purelinechutiabot?startgroup=true"
                     )]
             ]
         ),
@@ -40,7 +40,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/Legendfed_1")
+                        "🔊 Channel", url="https://t.me/Black_Lightning_channel")
                 ]
             ]
         )
